@@ -1,31 +1,38 @@
 # 📊 Data Analytics Portfolio Project
+# 🛒 SQL + Python E-Commerce Data Analysis Project
 
 ## 🔹 Project Overview
-This project focuses on analyzing data to extract meaningful insights using Python. 
-It demonstrates data cleaning, exploratory data analysis, and visualization techniques.
+This project focuses on analyzing an e-commerce dataset using SQL and Python
+to extract meaningful business insights.
 
-## 🔹 Objectives
-- Clean and preprocess raw data
-- Perform Exploratory Data Analysis (EDA)
-- Visualize trends and patterns
-- Generate insights for decision-making
+## 🔹 Dataset
+The dataset is large in size and is not uploaded directly to GitHub.
+You can access it from the link below:
+📎 Dataset Link: (see dataset_link.txt)
 
-## 🔹 Tools & Technologies Used
+## 🔹 Technologies Used
 - Python
 - Pandas
-- NumPy
-- Matplotlib
+- MySQL
+- SQL
+- Matplotlib / Seaborn
 - Jupyter Notebook
 
-## 🔹 Project Highlights
-- Handled missing and inconsistent data
-- Created visualizations for better understanding
-- Derived insights from data analysis
+## 🔹 Project Structure
+- Questions.txt – Business and SQL analysis questions
+- csv_to_sql.py – Script to load CSV files into MySQL
+- python+sql_ecommerce.ipynb – Analysis and SQL queries
+- dataset_link.txt – Dataset source
 
-## 🔹 How to Run the Project
-1. Clone the repository
-2. Open the `.ipynb` file in Jupyter Notebook
-3. Run all cells
+## 🔹 Key Analysis Performed
+- Customer distribution analysis
+- Order and sales analysis
+- Product and seller performance
+- Revenue insights using SQL queries
+
+## 🔹 Outcome
+This project demonstrates the use of SQL with Python to solve real-world
+data analysis problems on large datasets.
 
 ## 🔹 Author
 **Rishikesh Chandeliya**  
