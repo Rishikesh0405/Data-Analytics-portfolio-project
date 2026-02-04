@@ -6,9 +6,8 @@ This project focuses on analyzing an e-commerce dataset using SQL and Python
 to extract meaningful business insights.
 
 ## 🔹 Dataset
-The dataset is large in size and is not uploaded directly to GitHub.
-You can access it from the link below:
-📎 Dataset Link: (see dataset_link.txt)
+The dataset used in this project is large in size and cannot be uploaded to GitHub.
+You can access the dataset from the link provided in `dataset_link.txt`.
 
 ## 🔹 Technologies Used
 - Python
