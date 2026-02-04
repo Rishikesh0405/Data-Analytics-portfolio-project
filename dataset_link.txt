@@ -1,0 +1,6 @@
+E-Commerce Dataset (Large Files)
+
+Due to GitHub file size limits, the dataset is hosted externally.
+Download the dataset from the link below:
+
+https://drive.google.com/drive/folders/1LX31GLAiDGVBTss9Za-Mfyx8EpxtVjPi
